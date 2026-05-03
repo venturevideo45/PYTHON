@@ -1,0 +1,2 @@
+ File in write mode ....Hil I am Jeswika. I am 8 yr. old 
+ File in append mode ....And I am in 3rd class. I love to play with my friends.
