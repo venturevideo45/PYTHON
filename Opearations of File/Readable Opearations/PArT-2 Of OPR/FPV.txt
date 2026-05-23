@@ -1,0 +1,6 @@
+An FPV (First-Person View) Drone is a type of unmanned aerial vehicle (UAV) that offers an immersive, "cockpit-view" flying experience,
+ designed for high speed, agility, and manual control. Unlike traditional camera drones (like the DJI Mavic series), which are designed
+  for autonomous stability and stabilization, FPV drones require the pilot to wear specialized goggles that stream a live, low-latency 
+  video feed directly from a camera mounted on the drone’s nose. This perspective makes the pilot feel as though they are sitting inside
+   the aircraft, allowing them to fly through tight spaces, perform complex aerobatic maneuvers, and capture dynamic footage that 
+   standard drones cannot
