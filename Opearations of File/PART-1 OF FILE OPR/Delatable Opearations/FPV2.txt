@@ -1,0 +1,2 @@
+An FPV (First-Person View) Drone is a type of unmanned aerial vehicle (UAV) that offers an immersive, "cockpit-view" flying experience,
+ designed for high speed, agility, and manual control.
